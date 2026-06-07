@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Analyze security metrics, variety, and entropy bounds.
+  name: password-strength-checker version: 1.0 type: Repository author: VarshuAi description: >   Analyze security metrics, variety, and entropy bounds. primary_tech: CSS
 primary_tech: CSS
 ```
 
